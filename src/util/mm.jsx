@@ -9,10 +9,10 @@
 
 const conf = {
     // online
-    // serverHost: 'http://admin.drinkingwaterproject.com'
+    // serverHost: 'http://admin.happymmall.com'
     // dev
-    serverHost: '106.14.178.42',
-    imageHost: 'http:/img.drinkingwaterproject.com/',
+    serverHost: '',
+    imageHost: 'http://img.happymmall.com/',
 }
 
 class MMUtil{
